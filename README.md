@@ -1,2 +1,2 @@
 # Chinese-Chess
-C++
+This is a project for C++, It can be used by input keys
